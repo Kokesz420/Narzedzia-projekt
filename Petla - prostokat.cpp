@@ -1,4 +1,4 @@
-﻿/* Napisz program drukujący na ekranie prostokąt z literek x.Wysokość
+/* Napisz program drukujący na ekranie prostokąt z literek x.Wysokość
 i szerokość prostokąta wczytujemy z klawiatury :
 Przykład:
 Podaj szerokość prostokąta : 10
